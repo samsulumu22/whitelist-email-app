@@ -1,1 +1,2 @@
-membuat file "test"
+- membuat file "test"
+- branch staging
