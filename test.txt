@@ -1,4 +1,3 @@
 - membuat file "test"
 - branch staging
-- update readme
-- test update readme
+- test staging
